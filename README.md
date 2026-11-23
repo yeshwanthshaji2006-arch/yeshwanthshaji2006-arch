@@ -29,18 +29,6 @@ fun_fact:    I train models in Python and squeeze them into C++ on microcontroll
 
 ---
 
-## `$ cat experience.log`
-
-```diff
-+ [Jun 2026 – Jul 2026]  Machine Learning Intern @ Krish Tech, Coimbatore
-    → Real-time object detection app with YOLOv8 + GUI showing confidence scores
-    → Dataset annotation & preprocessing on Edge Impulse
-    → Built & tested deep learning models for edge AI deployment
-
-+ [Dec 2025 – Jan 2026]  R&D Intern – Electric Vehicle @ Sri Varu Motors Pvt Ltd, Coimbatore
-    → Studied batteries, BMS, motors, motor controllers & power electronics
-    → Supported testing & troubleshooting of EV components and BMS
-```
 
 ---
 
